@@ -9,6 +9,11 @@ title: Yuxuan Huang
     display: none !important;
   }
   
+  /* 隐藏底部的 "Hosted on GitHub Pages" */
+  footer {
+    display: none !important;
+  }
+  
   /* 调整正文容器，使其居中并变宽 */
   section {
     width: 100% !important;
