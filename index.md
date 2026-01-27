@@ -66,7 +66,7 @@ title: Yuxuan Huang
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 0 0 160px;">
-    <img src="IMG_0939.jpeg" alt="Yuxuan Huang" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    <img src="ava.jpeg" alt="Yuxuan Huang" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
   </div>
   
   <div>
