@@ -22,14 +22,14 @@ title: Yuxuan Huang
     padding: 30px 20px !important;
   }
   
-  /* 移动端适配：手机上左右边距稍小 */
+  /* 移动端适配 */
   @media (min-width: 600px) {
     section {
       padding: 50px 0 !important;
     }
   }
 
-  /* 字体优化：使用学术常用的无衬线字体组合 */
+  /* 字体优化 */
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     line-height: 1.6;
@@ -37,7 +37,7 @@ title: Yuxuan Huang
     background-color: #fff;
   }
 
-  /* 标题样式微调 */
+  /* 标题样式 */
   h1, h2, h3 {
     color: #111;
     font-weight: 600;
@@ -45,11 +45,11 @@ title: Yuxuan Huang
   h2 {
     margin-top: 40px;
     margin-bottom: 20px;
-    border-bottom: 1px solid #eaeaea; /* 给标题加一条淡淡的分割线 */
+    border-bottom: 1px solid #eaeaea;
     padding-bottom: 10px;
   }
 
-  /* 链接样式：经典的学术蓝 */
+  /* 链接样式 */
   a {
     color: #0066cc;
     text-decoration: none;
@@ -64,24 +64,18 @@ title: Yuxuan Huang
   }
 </style>
 
-<div style="display: flex; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
-  <div style="flex: 0 0 160px;">
-    <img src="ava.jpg" alt="Yuxuan Huang" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-  </div>
-  
-  <div>
-    <h1 style="margin-top: 0; font-size: 2.2em; margin-bottom: 15px;">Yuxuan Huang (黄宇轩)</h1>
-    <p style="font-size: 1.1em; color: #444; margin-bottom: 15px;">
-      <strong>Ph.D. Student</strong><br>
-      Department of Computer Science<br>
-      University of Liverpool
-    </p>
-    <p style="font-size: 0.95em; line-height: 1.8;">
-      📍 London, UK <br>
-      📧 <a href="mailto:Kaseiyo@liverpool.ac.uk">Kaseiyo@liverpool.ac.uk</a> <br>
-      🐙 <a href="https://github.com/WuizaKaseiyo">Github: WuizaKaseiyo</a>
-    </p>
-  </div>
+<div style="margin-bottom: 40px;">
+  <h1 style="margin-top: 0; font-size: 2.2em; margin-bottom: 15px;">Yuxuan Huang (黄宇轩)</h1>
+  <p style="font-size: 1.1em; color: #444; margin-bottom: 15px;">
+    <strong>Ph.D. Student</strong><br>
+    Department of Computer Science<br>
+    University of Liverpool
+  </p>
+  <p style="font-size: 0.95em; line-height: 1.8;">
+    📍 London, UK <br>
+    📧 <a href="mailto:Kaseiyo@liverpool.ac.uk">Kaseiyo@liverpool.ac.uk</a> <br>
+    🐙 <a href="https://github.com/WuizaKaseiyo">Github: WuizaKaseiyo</a>
+  </p>
 </div>
 
 ---
