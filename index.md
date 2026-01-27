@@ -3,21 +3,65 @@ layout: default
 title: Yuxuan Huang
 ---
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <div style="flex: 0 0 150px;">
-    <img src="https://avatars.githubusercontent.com/u/158092735?v=4" alt="Yuxuan Huang" style="width: 100%; border-radius: 50%;">
+<style>
+  /* 隐藏默认主题的侧边栏/左上角标题 */
+  header {
+    display: none !important;
+  }
+  
+  /* 调整正文容器，使其居中并变宽 */
+  section {
+    width: 100% !important;
+    max-width: 960px !important;
+    margin: 0 auto !important;
+    padding: 20px 0 !important;
+  }
+  
+  /* 移动端适配 */
+  @media (min-width: 600px) {
+    section {
+      padding: 40px 0 !important;
+    }
+  }
+
+  /* 字体优化 */
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+
+  /* 链接颜色 */
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* 列表间距优化 */
+  li {
+    margin-bottom: 6px;
+  }
+</style>
+
+<div style="display: flex; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
+  <div style="flex: 0 0 160px;">
+    <img src="https://avatars.githubusercontent.com/u/158092735?v=4" alt="Yuxuan Huang" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
+  
   <div>
-    <h1>Yuxuan Huang (黄宇轩)</h1>
-    <p>
+    <h1 style="margin-top: 0; font-size: 2.2em;">Yuxuan Huang (黄宇轩)</h1>
+    <p style="font-size: 1.1em; color: #555;">
       <strong>Ph.D. Student</strong><br>
       Department of Computer Science<br>
       University of Liverpool
     </p>
-    <p>
-      Email: <a href="mailto:Kaseiyo@liverpool.ac.uk">Kaseiyo@liverpool.ac.uk</a><br>
-      Github: <a href="https://github.com/WuizaKaseiyo">WuizaKaseiyo</a><br>
-      Location: London, UK
+    <p style="font-size: 0.95em;">
+      📍 London, UK <br>
+      📧 <a href="mailto:Kaseiyo@liverpool.ac.uk">Kaseiyo@liverpool.ac.uk</a> <br>
+      🐙 <a href="https://github.com/WuizaKaseiyo">Github: WuizaKaseiyo</a>
     </p>
   </div>
 </div>
@@ -33,16 +77,18 @@ My research interests focus on **LLM based Agents** and the application of **Lar
 ---
 
 ## 🔥 News
-* **[2026.Jan]** One paper under review by **ACL ARR 2026 Jan**.
-* **[2026.Jan]** One paper under review by **CVPR 2026**.
-* **[2025.Nov]** One paper accepted **EMNLP 2025**.
-* **[2025.Jul]** One paper accepted by **ACL 2025**.
-* **[2024.Mar]** One paper accepted by **ICLR 2024 Workshop**.
+<ul style="padding-left: 20px;">
+  <li><strong>[2026.Jan]</strong> One paper under review by <strong>ACL ARR 2026 Jan</strong>.</li>
+  <li><strong>[2026.Jan]</strong> One paper under review by <strong>CVPR 2026</strong>.</li>
+  <li><strong>[2025.Nov]</strong> One paper accepted by <strong>EMNLP 2025</strong>.</li>
+  <li><strong>[2025.Jul]</strong> One paper accepted by <strong>ACL 2025</strong>.</li>
+  <li><strong>[2024.Mar]</strong> One paper accepted by <strong>ICLR 2024 Workshop</strong>.</li>
+</ul>
 
 ---
 
 ## 📝 Publications & Preprints
-*\* denotes equal contribution*
+<div style="font-size: 0.9em; color: #666; margin-bottom: 15px;">* denotes equal contribution</div>
 
 ### 2025
 
@@ -82,5 +128,17 @@ My research interests focus on **LLM based Agents** and the application of **Lar
 
 ## 💻 Internships
 
-* ****,  Huawei Noah's Ark Lab. (London) <br>
-  *Mar 2025 - *
+* **Research Intern**, Huawei Noah's Ark Lab. (London) <br>
+  *Mar 2025 - Present*
+
+* **Data Analysis Intern**, ByteDance Ltd. (Shanghai) <br>
+  *Apr 2023 - Jul 2023*
+
+* **Algorithm Intern**, Nio Inc. (Shanghai) <br>
+  *Aug 2022 - Feb 2023*
+
+---
+
+## 🌟 Service
+* **Reviewer**: ACL 2025
+* **Teaching Assistant**: COMP532 BioInspired Learning (2024/2025)
