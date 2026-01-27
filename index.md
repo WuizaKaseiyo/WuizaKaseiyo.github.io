@@ -253,7 +253,7 @@ title: Yuxuan Huang
 <h2>Internships</h2>
 
 <div class="news-item">
-  <div class="news-date">2025.Mar - Present</div>
+  <div class="news-date">Mar. 2025 - Present</div>
   <div class="news-content">
     <strong>Research Intern</strong>, Huawei Noah's Ark Lab. (London)
   </div>
