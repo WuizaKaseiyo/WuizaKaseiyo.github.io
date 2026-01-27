@@ -53,7 +53,7 @@ title: Yuxuan Huang
 
 <div style="display: flex; gap: 40px; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex: 0 0 160px;">
-    <img src="https://avatars.githubusercontent.com/u/158092735?v=4" alt="Yuxuan Huang" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="IMG_0939.jpeg" style="width: 100%; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   
   <div>
