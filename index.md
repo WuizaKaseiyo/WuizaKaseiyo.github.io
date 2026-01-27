@@ -171,23 +171,23 @@ title: Yuxuan Huang
 
 <h2>News</h2>
 <div class="news-item">
-  <div class="news-date">2026.Jan</div>
+  <div class="news-date">Jan.2026</div>
   <div class="news-content">One paper under review by <strong>ACL ARR 2026 Jan</strong>.</div>
 </div>
 <div class="news-item">
-  <div class="news-date">2026.Jan</div>
+  <div class="news-date">Jan.2026</div>
   <div class="news-content">One paper under review by <strong>CVPR 2026</strong>.</div>
 </div>
 <div class="news-item">
-  <div class="news-date">2025.Nov</div>
+  <div class="news-date">Nov.2025</div>
   <div class="news-content">One paper accepted by <strong>EMNLP 2025</strong>.</div>
 </div>
 <div class="news-item">
-  <div class="news-date">2025.Jul</div>
+  <div class="news-date">Jul.2025</div>
   <div class="news-content">One paper accepted by <strong>ACL 2025</strong>.</div>
 </div>
 <div class="news-item">
-  <div class="news-date">2024.Mar</div>
+  <div class="news-date">Mar.2024</div>
   <div class="news-content">One paper accepted by <strong>ICLR 2024 Workshop</strong>.</div>
 </div>
 
