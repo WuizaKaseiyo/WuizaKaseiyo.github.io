@@ -165,7 +165,7 @@ title: Yuxuan Huang
     I am a Ph.D. student in Computer Science at the <strong>University of Liverpool</strong>, supervised by <strong>Prof. Meng Fang</strong>. I am also very fortunate to work closely with <strong>Prof. Jun Wang</strong>.
   </p>
   <p>
-    My research interests focus on <strong>LLM based Agents</strong> and the application of <strong>LLMs</strong> in agent-based systems. I am particularly interested in building language-capable agents that can collaborate, plan, and adapt in real-world environments to support effective human-AI interaction.
+    My research interests focus on <strong>LLM, RL based Agents</strong> and the application of <strong>LLMs</strong> in agent-based systems. I am particularly interested in building language-capable agents that can collaborate, plan, and adapt in real-world environments to support effective human-AI interaction.
   </p>
 </div>
 
