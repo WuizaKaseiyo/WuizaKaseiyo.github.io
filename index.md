@@ -259,22 +259,7 @@ title: Yuxuan Huang
   </div>
 </div>
 
-<div class="news-item">
-  <div class="news-date">2023.Apr - Jul</div>
-  <div class="news-content">
-    <strong>Data Analysis Intern</strong>, ByteDance Ltd. (Shanghai)
-  </div>
-</div>
-
-<div class="news-item">
-  <div class="news-date">2022.Aug - Feb</div>
-  <div class="news-content">
-    <strong>Algorithm Intern</strong>, Nio Inc. (Shanghai)
-  </div>
-</div>
-
 <h2>Service</h2>
 <ul>
-  <li><strong>Reviewer:</strong> ACL 2025</li>
   <li><strong>Teaching Assistant:</strong> COMP532 BioInspired Learning (2024/2025)</li>
 </ul>
