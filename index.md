@@ -102,7 +102,7 @@ title: Yuxuan Huang
     align-items: baseline;
   }
   .news-date {
-    flex: 0 0 100px; /* 固定日期宽度 */
+    flex: 0 0 145px; /* 固定日期宽度 */
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     font-size: 0.9em;
